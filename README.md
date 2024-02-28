@@ -14,4 +14,4 @@ Project created with Unreal Engine version 5.3.2. Other (minor) version (of vers
 
 Project requires a free plugin in the Unreal Marketplace ([Read &amp; write text file](https://www.unrealengine.com/marketplace/en-US/product/read-write-text-file)) to oben.
 
-To test play on and build the project for HMD, additinal steps might be needed depending on the type of HMD. Take a look at the documentation of UE ([link](https://docs.unrealengine.com/5.3/en-US/supported-xr-devices-in-unreal-engine/)) to know which HMD is suppoted and additional step needed to make it runs with Unreal Engine.
+To test play on and build the project for HMD, additional steps might be needed depending on the type of HMD. Take a look at the documentation of UE ([link](https://docs.unrealengine.com/5.3/en-US/supported-xr-devices-in-unreal-engine/)) to know which HMD is suppoted and additional steps needed to make it runs with Unreal Engine.
